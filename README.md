@@ -1,3 +1,9 @@
 # Desenvolvimento Web com HTML, CSS e JavaScript
 
-Vão programar pra Web, mô. <3
+comandos úteis:
+
+
+$ git add *.c
+$ git add LICENSE
+$ git commit -m 'initial project version'
+
