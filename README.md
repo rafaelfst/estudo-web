@@ -1,1 +1,1 @@
-# estudo-web
+# Desenvolvimento Web com HTML, CSS e JavaScript
