@@ -1,0 +1,23 @@
+#Tags HTML
+
+Títulos
+
+ - tags de heading <h1> a <h6>
+ 
+Parágrafos 
+
+ - <p>Nenhum item na sacola de compras.</p> 
+ 
+Marcações de ênfase
+
+<strong>; <small>; <em> 
+
+Imagens
+
+A tag <figure> define uma imagem com a conhecida tag <img>. 
+Além disso, permite adicionar uma legenda para a imagem por meio da tag <figcaption>
+
+<figure>
+<img src="img/produto1.png" alt="Foto do produto">
+<figcaption>Fuzz Cardigan por R$ 129,90</figcaption>
+</figure>
