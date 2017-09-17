@@ -11,15 +11,36 @@
 }
 .busca,
 .menu-departamentos {
-  float: left;
+  font-weight: bold;
   text-transform: uppercase;
+  float: left;
+}
+.busca input {
+vertical-align: middle;
+}
+.busca input[type=search] {
+width: 170px;
 }
 .menu-departamentos {
   clear: left;
+  margin-top: 10px;
+  padding-bottom: 10px
+}
+.menu-departamentos a {
+  color: #333333;
+  text-decoration: none;
 }
 .menu-departamentos h2 {
   background-color: #F2EDED;
   text-decoration: none;
+}
+.menu-departamentos li {
+  background-color: white;
+  margin-bottom: 1px;
+  padding: 5px 10px;
+}
+.destaque {
+
 }
 .destaque-home {
   padding-top: 30px;
